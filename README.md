@@ -21,7 +21,7 @@ ___
 ** I am Ademola **
 
 
-[![Image of Ademola](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/ademo11?tab=repositories) [![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/ademola-olatunbosun/) 
+[![Image of Ademola](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/ademo11?tab=repositories) [![Image of Ademola](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/ademola-olatunbosun/) 
 ___
 ### Joshua Phipps
 
@@ -31,7 +31,18 @@ ___
 ___
 ### Nickolaus Alderete
 
-**I am Nick**
+**US Army Veteran, low voltage electrician transitioning into the cybersecurity realm.**
 
 [![Image of Nick A](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/Nkalderete?tab=repositories) [![Image of Nick](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/nickolaus-alderete/) 
 ___
+### Andrew Perry
+
+**I am Andrew**
+
+[![Image of Andrew](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/Perryandr?tab=repositories) [![Image of Andrew](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/andrew-perry-0998b7263/) 
+___
+### Justin "Sage" Tabios
+
+**Howzit My name is Justin 'Sage' Tabios.  What I enjoy most about tech is the gaming sector of it.**
+
+[![Image of Sage](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/AnnyeongAloha) [![Image of Sage](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/justintabios/) 
