@@ -15,3 +15,10 @@ ___
 - [Topologies/Visuals]
 - [Slideshow]
 - [Video Presentation]
+___
+### Joshua Phipps
+
+**I am currently a Georgia National Guard soldier tranistioning into Cybersecurity.** 
+
+[![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/joshp27?tab=repositories)
+___
