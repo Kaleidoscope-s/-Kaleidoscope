@@ -18,7 +18,7 @@ ___
 ___
 ### Ademola Olatunbosun
 
-**
+** I am Ademola **
 
 
 [![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/ademo11?tab=repositories) [![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/ademola-olatunbosun/) 
