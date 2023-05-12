@@ -20,5 +20,5 @@ ___
 
 **I am currently a Georgia National Guard soldier tranistioning into Cybersecurity.** 
 
-[![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/joshp27?tab=repositories) [![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)]([https://www.linkedin.com/in/joshua-phipps-755a20264/])
+[![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/joshp27?tab=repositories) [![Image of Joshua]([https://www.linkedin.com/in/joshua-phipps-755a20264/])(https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)]
 ___
