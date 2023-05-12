@@ -16,6 +16,13 @@ ___
 - [Slideshow]
 - [Video Presentation]
 ___
+### Ademola Olatunbosun
+
+**
+
+
+[![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/ademo11?tab=repositories) [![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/ademola-olatunbosun/) 
+___
 ### Joshua Phipps
 
 **I am currently a Georgia National Guard soldier tranistioning into Cybersecurity.** 
