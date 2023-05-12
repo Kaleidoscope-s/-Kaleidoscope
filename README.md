@@ -21,11 +21,17 @@ ___
 ** I am Ademola **
 
 
-[![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/ademo11?tab=repositories) [![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/ademola-olatunbosun/) 
+[![Image of Ademola](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/ademo11?tab=repositories) [![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/ademola-olatunbosun/) 
 ___
 ### Joshua Phipps
 
 **I am currently a Georgia National Guard soldier tranistioning into Cybersecurity.** 
 
 [![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/joshp27?tab=repositories) [![Image of Joshua](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/joshua-phipps-755a20264/) 
+___
+### Nickolaus Alderete
+
+**I am Nick**
+
+[![Image of Nick A](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/gitK.png)](https://github.com/Nkalderete?tab=repositories) [![Image of Nick](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/INK.png)](https://www.linkedin.com/in/nickolaus-alderete/) 
 ___
