@@ -10,7 +10,7 @@ ___
 
 *Below are the links and details for our 401 End of course project.*
 - [Team Agreement]
-- [SOP]
+- [SOP](https://github.com/Kaleidoscope-s/-Kaleidoscope/blob/main/SOPs)
 - [System Selection doc]
 - [Topologies/Visuals]
 - [Slideshow]
