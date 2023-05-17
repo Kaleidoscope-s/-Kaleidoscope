@@ -12,6 +12,7 @@ ___
 - [Team Agreement]
 - [System Selection doc]
 - [Topologies/Visuals]
+- [Scripting]
 - [Slideshow]
 - [Video Presentation]
 ___
