@@ -12,7 +12,7 @@ ___
 - [Team Agreement]
 - [System Selection doc]
 - [Topologies/Visuals]
-- [Scripting]
+- [Scripting](https://github.com/Kaleidoscope-s/Scripting)
 - [Slideshow]
 - [Video Presentation]
 ___
