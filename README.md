@@ -12,7 +12,7 @@ ___
 - [Team Agreement]
 - [SOP](https://github.com/Kaleidoscope-s/SOPs)
 - [System Selection doc]
-- [Topologies/Visuals]
+- [Topologies/Visuals](https://github.com/Kaleidoscope-s/Kaleidoscope/blob/main/KTop.jpg)
 - [Scripting](https://github.com/Kaleidoscope-s/Scripting)
 - [Slideshow]
 - [Video Presentation]
